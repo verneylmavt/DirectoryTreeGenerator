@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\bin\Debug\DirectoryTreeGenerator.exe.config
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\bin\Debug\DirectoryTreeGenerator.exe
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\bin\Debug\DirectoryTreeGenerator.pdb
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\DirectoryTreeGenerator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\MainWindow.baml
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\App.g.cs
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\DirectoryTreeGenerator_MarkupCompile.cache
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\DirectoryTreeGenerator.g.resources
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\DirectoryTreeGenerator.Properties.Resources.resources
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\DirectoryTreeGenerator.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\DirectoryTreeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\DirectoryTreeGenerator.exe
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\DirectoryTreeGenerator.pdb
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\DarkTheme.baml
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\LightTheme.baml
+C:\Users\ASUS\source\repos\DirectoryTreeGenerator\DirectoryTreeGenerator\obj\Debug\App.baml
