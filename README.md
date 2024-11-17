@@ -2,7 +2,6 @@
 
 A user-friendly Windows application to generate and visualize the directory structure of any folder. Whether you're a developer, system administrator, or just organizing your files, this tool simplifies the process of mapping out directory trees.
 
-![Application Screenshot](screenshots/app_screenshot.png)
 
 ## Table of Contents
 
@@ -27,17 +26,15 @@ A user-friendly Windows application to generate and visualize the directory stru
 
 ## Screenshots
 
-*Note: Include screenshots in the `screenshots/` directory and reference them here.*
 
 ### Light Theme
 
 ![Light Theme Screenshot](screenshots/light-theme.png)
-*Light theme displaying a sample directory tree.*
 
 ### Dark Theme
 
 ![Dark Theme Screenshot](screenshots/dark-theme.png)
-*Dark theme for comfortable viewing in low-light environments.*
+
 
 ## Download and Installation
 
