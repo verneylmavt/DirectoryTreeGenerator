@@ -38,11 +38,11 @@ A user-friendly Windows application to generate and visualize the directory stru
 
 ## Download and Installation
 
-Download the latest version from the [Releases](https://github.com/yourusername/DirectoryTreeGenerator/releases) page.
+Download the latest version from the [Releases](https://github.com/verneylmavt/DirectoryTreeGenerator/releases/tag/v1.0) page.
 
 ### Installation Steps
 
-1. **Download the Installer**: Navigate to the [Releases](https://github.com/yourusername/DirectoryTreeGenerator/releases) page and download the `DirectoryTreeGenerator.msi` file.
+1. **Download the Installer**: Navigate to the [Releases](https://github.com/verneylmavt/DirectoryTreeGenerator/releases/tag/v1.0) page and download the `DirectoryTreeGenerator.msi` and `setup.exe` file.
 2. **Run the Installer**: Double-click the MSI file and follow the installation wizard.
 3. **Complete Installation**: After installation, the application will be available in your Start Menu or installation directory.
 
