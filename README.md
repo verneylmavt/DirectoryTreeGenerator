@@ -38,11 +38,11 @@ A user-friendly Windows application to generate and visualize the directory stru
 
 ## Download and Installation
 
-Download the latest version from the [Releases](https://github.com/verneylmavt/DirectoryTreeGenerator/releases/tag/v1.0) page.
+Download the latest version from the [Releases](https://github.com/verneylmavt/directory-tree-generator/releases/tag/v1.0) page.
 
 ### Installation Steps
 
-1. **Download the Installer**: Navigate to the [Releases](https://github.com/verneylmavt/DirectoryTreeGenerator/releases/tag/v1.0) page and download the `DirectoryTreeGenerator.msi` and `setup.exe` file.
+1. **Download the Installer**: Navigate to the [Releases](https://github.com/verneylmavt/directory-tree-generator/releases/tag/v1.0) page and download the `DirectoryTreeGenerator.msi` and `setup.exe` file.
 2. **Run the Installer**: Double-click the MSI file and follow the installation wizard.
 3. **Complete Installation**: After installation, the application will be available in your Start Menu or installation directory.
 
@@ -66,4 +66,4 @@ We welcome contributions! To contribute:
 1. **Fork the Repository**: Use the "Fork" button to create your own copy.
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/yourusername/DirectoryTreeGenerator.git
+   git clone https://github.com/verneylmavt/directory-tree-generator.git
